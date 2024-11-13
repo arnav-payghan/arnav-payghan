@@ -2,13 +2,11 @@
 <h1 align="center">Arnav • Payghan</h1>
 <h3 align="center">🎍 A passionate Designer & Developer 🎍</h3>
 
--  I’m currently working on **Pixel Zero (Custom ROM)**
+-  Working on **Pixel Zero (Custom ROM)**
 
--  I’m currently learning **Animations Design**
+-  Learning **Animations Design**
 
--  Ask me about **UI-UX, Figma, and designing in general.**
-
--  How to reach me **arnavpayghan.work@gmail.com**
+-  How to reach me : **arnavpayghan.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
