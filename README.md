@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/arnavvv__" target="blank"><img src="https://img.shields.io/twitter/follow/arnavvv__?logo=twitter&style=for-the-badge" alt="arnavvv__" /></a> </p>
 
-- 🔭 I’m currently working on **Lost-Link**
+- 🔭 I’m currently working on **Pixel Zero (Custom ROM)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Animations Design**
 
-- 💬 Ask me about **UI-UX, Figma, Front-End.**
+- 💬 Ask me about **UI-UX, Figma, and designing in general.**
 
-- 📫 How to reach me **arn.pay.rt22@dypatil.edu**
+- 📫 How to reach me **arnavpayghan.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
