@@ -1,10 +1,10 @@
 
 <h1 align="center">Arnav • Payghan</h1>
-<h3 align="center">🎍 A passionate Designer & Developer 🎍</h3>
+<h3 align="center">🎍 Designer & Developer 🎍</h3>
 
--  Working on **Pixel Zero (Custom ROM)**
+-  Working on a **(Custom ROM)**
 
--  Learning **Animations Design**
+-  Learning **Game Development**
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
