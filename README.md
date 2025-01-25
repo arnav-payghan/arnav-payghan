@@ -1,7 +1,7 @@
 <h1 align="center">Arnav • Payghan</h1>
 <h3 align="center">🎍 Designer & Developer 🎍</h3>
 
--  Working on a **(Custom ROM)**
+-  Working on **Nova AI**
 
 -  Learning **Game Development**
 
