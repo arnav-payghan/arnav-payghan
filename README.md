@@ -1,7 +1,7 @@
 <h1 align="center">Arnav • Payghan</h1>
 <h3 align="center">🎍 Designer & Developer 🎍</h3>
 
--  Working on **Blueberry Assistant.**
+-  Working on **my Portfolio.**
 
 -  Learning **AI and Machine Learning.**
 
