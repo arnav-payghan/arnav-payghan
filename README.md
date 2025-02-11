@@ -1,7 +1,7 @@
 <h1 align="center">Arnav • Payghan</h1>
 <h3 align="center">🎍 Designer & Developer 🎍</h3>
 
--  Working on **my Portfolio.**
+-  Working on **my Website Portfolio.**
 
 -  Learning **AI and Machine Learning.**
 
