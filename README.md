@@ -7,7 +7,7 @@
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
-<img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=e34f26" height="20px" width="60px" font-family="consolas">
+<img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=e34f26" height="30px" width="90px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
