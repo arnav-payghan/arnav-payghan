@@ -9,10 +9,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS-0073ff?logo=css3&logoColor=fff" height="25px" width="60px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-e9fa00?logo=javascript&logoColor=010101" height="25px" width="100px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-React-14c4fa?logo=react&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-011978?logo=python&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<a href="#" onClick="window.open('https://www.hackerrank.com/profile/arn_payghan', '_blank')"><img src="https://img.shields.io/badge/-HackerRank-030303?logo=hackerrank&logoColor=00EA64" height="25px" width="125px"></a>
-
-[My HackerRank](https://www.hackerrank.com/profile/arn_payghan)
-
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS-0073ff?logo=css3&logoColor=fff" height="25px" width="60px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-e9fa00?logo=javascript&logoColor=010101" height="25px" width="100px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-React-14c4fa?logo=react&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-011978?logo=python&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/arn_payghan"><img src="https://img.shields.io/badge/-HackerRank-030303?logo=hackerrank&logoColor=00EA64" height="25px" width="125px"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
