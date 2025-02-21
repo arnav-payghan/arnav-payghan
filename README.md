@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=e34f26" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=0073ff" height="25px" width="60px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=e9fa00" height="25px" width="100px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=19e3fa" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=fff" height="25px" width="75px">
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS-0073ff?logo=css3&logoColor=fff" height="25px" width="60px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-e9fa00?logo=javascript&logoColor=fff" height="25px" width="100px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-React-19e3fa?logo=react&logoColor=fff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-011978?logo=python&logoColor=fff" height="25px" width="75px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
