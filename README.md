@@ -7,11 +7,9 @@
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
-<img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=e34f26" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=e34f26" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=e34f26" height="25px" width="100px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=e34f26" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=e34f26" height="25px" width="75px">
+<br>
 
-
-
-
+<img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=e34f26" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=0073ff" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=e9fa00" height="25px" width="100px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=19e3fa" height="25px" width="75px">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=fff" height="25px" width="75px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
