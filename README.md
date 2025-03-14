@@ -1,5 +1,5 @@
 <h1 align="center">Arnav • Payghan</h1>
-<h2 align="center">🎍 Designer & Developer 🎍</h2>
+<h3 align="center">🎍 Designer & Developer 🎍</h3>
 
 -  Working on a game **"Spirit-Lands".**
 
