@@ -3,7 +3,7 @@
 
 -  Working on a game **"Spirit-Lands".**
 
--  Learning **AI and Machine Learning.**
+-  Learning **DevOps**
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
