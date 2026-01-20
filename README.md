@@ -1,9 +1,7 @@
 <h1 align="center">Arnav • Payghan</h1>
 <h3 align="center">🎍 Designer & Developer 🎍</h3>
 
--  Working on a game **"Spirit-Lands".**
-
--  Learning **DevOps**
+-  Learning **SAP ABAP**
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
