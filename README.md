@@ -54,17 +54,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-delta-teal.vercel.app?user=arnav-payghan&theme=midnight-purple" alt="arnav-payghan" />
-</p>
-
-<div align="center">
-  <img height=156px width=400px src="https://github-readme-stats.vercel.app/api?username=arnav-payghan&show_icons=true&theme=midnight-purple" />
-  <img height=157px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-payghan&theme=midnight-purple&layout=compact" />
-</div>
-
-<hr>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/arnavvv__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnavvv__" height="30" width="40" /></a>
