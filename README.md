@@ -3,7 +3,7 @@
 
 -  Learning **SAP ABAP**
 
--  Working on <a href="https://github.com/arnav-payghan/dock.cmd">`dock.cmd`</a> [(Private Repo) Personal shell for easy and group access of websites or applications.]
+-  Working on <a href="https://github.com/arnav-payghan/dock.cmd">`dock.cmd`</a> [Personal shell for easy and group access of websites or applications.]
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
