@@ -13,3 +13,12 @@
 -  Working on <a href="https://github.com/arnav-payghan/dock.cmd">`dock.cmd`</a> [Personal shell for easy and group access of websites or applications.]
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
+
+
+<h3>Skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,react,tailwind,bootstrap,express,nodejs,npm,mongodb,mysql,git,github,eclipse,vscode,visualstudio,unity,figma,md)](https://skillicons.dev)
+
+<!-- <h3>Socials:</h3>
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,)](https://skillicons.dev) -->
+
