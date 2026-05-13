@@ -10,7 +10,7 @@
 
 -  Learning **SAP ABAP**
 
--  Working on <a href="https://github.com/arnav-payghan/dock.cmd">`dock.cmd`</a> [Personal shell for easy and group access of websites or applications.]
+-  Working on <a href="https://github.com/arnav-payghan/case_404">`case_404`</a> [Interactive CLI mystery game, just for fun.]
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
