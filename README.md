@@ -8,9 +8,9 @@
 
 <h3>Currently I am:</h3>
 
--  Learning **SAP ABAP**
+-  Learning **SAP ABAP Cloud**
 
--  Working on <a href="https://github.com/arnav-payghan/case_404">`case_404`</a> [Interactive CLI mystery game, just for fun.]
+-  Working on my own resource pack for `minecraft`! 
 
 -  How to reach me : **arnavpayghan.work@gmail.com**
 
